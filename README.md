@@ -1,4 +1,5 @@
 Victoria 2 MP server: https://discord.gg/XqXbW4mzCR
+Message me with ideas & feedback on discord: @stauffen
 
 # How to use optimally
 1. Set autosave to monthly (only the host in mp gets autosaves!)
